@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Alexey Koshevoy](https://up.htmlacademy.ru/yii/1/user/929465).
-* Наставник: `Неизвестно`.
+* Наставник: [Evgeny Savich](https://htmlacademy.ru/profile/id68926).
 
 ---
 
